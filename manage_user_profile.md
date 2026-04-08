@@ -8,9 +8,9 @@ Organizations with hundreds or thousands of users can take advantage of the User
 
 2. From the list, select Manage User Profiles.
 
-![](.gitbook/assets/screenshot_02.png)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-3. Click the Actions drop-down and choose Add.
+2. Click the Actions drop-down and choose Add.
 
 ![](.gitbook/assets/screenshot_03.png)
 
