@@ -1,180 +1,124 @@
-# Home Page
+# <a id="_Toc199075765"></a><a id="_Toc225775622"></a>Home Page
 
-## Understanding the Home Screen
+## <a id="_Toc199075766"></a><a id="_Toc225775623"></a>Understanding the Home Screen
 
-The Home Screen is the default landing page when you access Nomadia
-Delivery. It provides an operational overview of your delivery activity,
-highlighting key performance indicators, mission statuses, and quick
-links to core functionalities. This screen is designed to help users
-navigate efficiently while staying informed about logistics operations
-in real time.
+The Home Screen is the default landing page when you access Nomadia Delivery\. It provides an operational overview of your delivery activity, highlighting key performance indicators, mission statuses, and quick links to core functionalities\. This screen is designed to help users navigate efficiently while staying informed about logistics operations in real time\.
 
-<img src="F:\Project\home_page\images/media/image1.png"
-style="width:6.69375in;height:3.27222in" />
+![](screenshots/screenshot_1.png)
 
-<img src="F:\Project\home_page\images/media/image1.png"
-style="width:6.69375in;height:3.27222in" />
+![](screenshots/screenshot_2.png)
 
-**Key Areas of the Home Screen**
+__  Key Areas of the Home Screen__
 
-<table>
-<colgroup>
-<col style="width: 8%" />
-<col style="width: 23%" />
-<col style="width: 68%" />
-</colgroup>
-<thead>
-<tr>
-<th><strong>Code</strong></th>
-<th><strong>Section</strong></th>
-<th><strong>Purpose</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Navigation Tabs</td>
-<td><p><strong>Access the main parts of the app:</strong></p>
-<ul>
-<li><p><strong>Missions</strong> – Provides a unified view of all
-missions with support for planning, tracking, and optimization based on
-100+ constraints.</p></li>
-<li><p><strong>Dashboard</strong> – Provides data visualization tools to
-monitor missions, routes, administrative KPIs, fulfillment KPIs, and
-other key metrics.</p></li>
-<li><p><strong>Fulfillment</strong> – Used for tracking live locations
-and monitoring mission progress with Proof of Delivery (PoD) at the
-route level</p></li>
-<li><p><strong>Configuration</strong> – Customize the app to your
-needs.</p></li>
-</ul></td>
-</tr>
-<tr>
-<td>2</td>
-<td>User and Help Icons</td>
-<td><p><strong>Top-right icons:</strong></p>
-<ul>
-<li><p><strong>Help Me</strong> – FAQs and documentation.</p></li>
-<li><p><strong>Account</strong> – User settings, updates, and
-logout.</p></li>
-</ul></td>
-</tr>
-<tr>
-<td>3</td>
-<td>My KPI’s</td>
-<td>Users can select a homepage-compatible dashboard from 'My
-Preferences' and set it to display on the homepage.</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Mission Statistics</td>
-<td>Displays mission statuses from the past seven days with up to five
-KPI categories, customizable via “My Preferences”.</td>
-</tr>
-</tbody>
-</table>
+__Code__
 
-## Configure the display of my KPI
+__                   Section__
 
-You can personalize your Home Screen by selecting which KPIs are most
-relevant to your operations. Nomadia Delivery allows you to display the
-configured home page dashboard, along with a configurable calculation
-period ranging from the last day to the last seven days. This helps you
-stay focused on the metrics that matter most.
+__Purpose__
 
-From the **Home page**,
+1
 
-1.  Click on the **Account** icon located in the upper-right corner of
-    the screen.
+Navigation Tabs
 
-2.  Select **My Preferences** from the dropdown menu.
+__Access the main parts of the app:__
 
-<img src="F:\Project\home_page\images/media/image2.png"
-style="width:6.33889in;height:3.00833in" />
+- __Missions__ – Provides a unified view of all missions with support for planning, tracking, and optimization based on 100\+ constraints\.
+- __Dashboard__ – Provides data visualization tools to monitor missions, routes, administrative KPIs, fulfillment KPIs, and other key metrics\.
+- __Fulfillment__ – Used for tracking live locations and monitoring mission progress with Proof of Delivery \(PoD\) at the route level
+- __Configuration__ – Customize the app to your needs\.
 
-3.  Choose the **Dashboard** from the **Home page custom dashboard**.
+2
 
-<img src="F:\Project\home_page\images/media/image4.svg"
-style="width:6.29167in;height:3.16667in" />
+User and Help Icons
 
-4.  Select a period ranging from **Last Day** to **Last Seven Days**
-    based on your preference.
+__Top\-right icons:__
 
-5.  Click on **Save**
+- __Help Me__ – FAQs and documentation\.
+- __Account__ – User settings, updates, and logout\.
 
-<img src="F:\Project\home_page\images/media/image6.svg"
-style="width:6.55208in;height:3.16667in" />
+3
 
-6.  Your homepage will display the chosen dashboard.
+My KPI’s
 
-<img src="F:\Project\home_page\images/media/image7.png"
-style="width:6.28819in;height:3.12708in"
-alt="A screenshot of a computer AI-generated content may be incorrect." />
+Users can select a homepage\-compatible dashboard from 'My Preferences' and set it to display on the homepage\.
 
-## Configure the display of mission’s statuses
+4
 
-This feature allows users to customize the mission statuses displayed on
-their home page
+Mission Statistics
 
-dashboard.
+Displays mission statuses from the past seven days with up to five KPI categories, customizable via “My Preferences”\.
 
-By selecting up to five statuses, users can tailor the view to show the
-most relevant information
+## <a id="_Toc199075767"></a><a id="_Toc225775624"></a>Configure the display of my KPI
 
-Based on their operational needs, helping them stay focused and
-efficient.
+You can personalize your Home Screen by selecting which KPIs are most relevant to your operations\. Nomadia Delivery allows you to display the configured home page dashboard, along with a configurable calculation period ranging from the last day to the last seven days\. This helps you stay focused on the metrics that matter most\.
 
-From the **Home page**,
+From the __Home page__, 
 
-1.  Click the **Account** icon located at the top-right corner of the
-    screen.
+1. Click on the __Account__ icon located in the upper\-right corner of the screen\.
+2. Select __My Preferences__ from the dropdown menu\.
 
-2.  From the dropdown menu, select **My Preferences**.
+![](screenshots/screenshot_3.png)
 
-3.  Choose up to five statuses of the **Mission Stats** on the Home page
-    to display from the
+1. Choose the __Dashboard__ from the __Home page custom dashboard__\.
 
-following options:
+![](screenshots/screenshot_4.png)
+
+1. Select a period ranging from __Last Day__ to __Last Seven Days__ based on your preference\.
+2. Click on __Save__
+
+![](screenshots/screenshot_5.png)
+
+1. Your homepage will display the chosen dashboard\.
+
+![A screenshot of a computer
+
+AI-generated content may be incorrect.](screenshots/screenshot_6.png)
+
+## <a id="_Toc199075768"></a><a id="_Toc225775625"></a>Configure the display of mission’s statuses
+
+This feature allows users to customize the mission statuses displayed on their home page
+
+dashboard\.
+
+By selecting up to five statuses, users can tailor the view to show the most relevant information
+
+Based on their operational needs, helping them stay focused and efficient\.
+
+From the __Home page__, 
+
+1. Click the __Account__ icon located at the top\-right corner of the screen\.
+2. From the dropdown menu, select __My Preferences__\.
+3. Choose up to five statuses of the __Mission Stats__ on the Home page to display from the   
+
+        following options:
 
 - Waiting
-
 - Not Received
-
 - Not Delivered
-
 - To Be Delivered
-
 - Loaded
 
-4.  After selecting the desired statuses, click on **Save**.
+1. After selecting the desired statuses, click on __Save__\.
 
-<img src="F:\Project\home_page\images/media/image9.svg"
-style="width:6.29167in;height:3.16667in" />
+ ![](screenshots/screenshot_7.png)
 
-5.  Your home page will display the selected KPI’s.
+1. Your home page will display the selected KPI’s\. 
 
-<img src="F:\Project\home_page\images/media/image10.png"
-style="width:6.25417in;height:3.12708in"
-alt="A screenshot of a computer AI-generated content may be incorrect." />
+![A screenshot of a computer
 
-## Refresh KPI date and Mission statuses
+AI-generated content may be incorrect.](screenshots/screenshot_8.png)
 
-This feature allows users to manually refresh the mission KPIs, and
-statistics displayed on the home page. It ensures that the most recent
-data is retrieved and shown, providing users with up-to-date insights
-into their mission progress and performance.
+## <a id="_Toc199075769"></a><a id="_Toc225775626"></a>Refresh KPI date and Mission statuses
 
-From the **Home Page**,
+This feature allows users to manually refresh the mission KPIs, and statistics displayed on the home page\. It ensures that the most recent data is retrieved and shown, providing users with up\-to\-date insights into their mission progress and performance\.
 
-1.  Navigate to the top-left section of the screen.
+From the __Home Page__, 
 
-2.  Locate the ***Refresh KPIs*** icon positioned next to the Last
-    Updated Date and Time.
+1. Navigate to the top\-left section of the screen\.
+2. Locate the __*Refresh KPIs *__icon positioned next to the Last Updated Date and Time\.
+3. Click the __Refresh__ __the KPIs __icon to update the displayed data with the latest available   
 
-3.  Click the **Refresh** **the KPIs** icon to update the displayed data
-    with the latest available
+      information\.
 
-information.
+![](screenshots/screenshot_9.png)
 
-<img src="F:\Project\home_page\images/media/image12.svg"
-style="width:6.29167in;height:3.16667in" />
