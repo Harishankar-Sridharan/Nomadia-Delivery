@@ -2,21 +2,21 @@
 
 The Manage Users section allows administrators to create, configure, and maintain user accounts in Nomadia Delivery. From this screen, you can add new users, create users based on existing profiles, and manage user access to web and mobile applications. It also enables you to define user roles and permissions, assign agencies, configure working schedules, manage days off, and control access to key functional areas such as optimization, missions, depots, tickets, and vehicles. This ensures that each user has the appropriate access rights and availability based on their role and responsibilities within the organization.
 
-### 4.1. Enabling Mobile Access <a href="#toc225775629" id="toc225775629"></a>
+### 1. Enabling Mobile Access <a href="#toc225775629" id="toc225775629"></a>
 
 1. Navigate to **Configuration**.
 
 ![](.gitbook/assets/image_1.png)
 
-1. From the list, select **Manage Users**.
+2. From the list, select **Manage Users**.
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Click the \_\_Actions \_\_drop-down and choose **Add**.
+3. Click the \_\_Actions \_\_drop-down and choose **Add**.
 
 ![](.gitbook/assets/image_3.png)
 
-3. To create a new user, set Create from existing user to **No**. Click **OK**. For step-by-step instructions, refer to section [5.3. Creating a User from an Existing User](manage_users.md#_5.3._Creating_a)
+4. To create a new user, set Create from existing user to **No**. Click **OK**. For step-by-step instructions, refer to section [5.3. Creating a User from an Existing User](manage_users.md#_5.3._Creating_a)
 
 ![](.gitbook/assets/image_4.png)
 
@@ -43,13 +43,11 @@ The Manage Users section allows administrators to create, configure, and maintai
 
 ![](.gitbook/assets/image_8.png)
 
-1. After completing all required details, click **Save** to create the user.
+5. After completing all required details, click **Save** to create the user.
 
 ![](.gitbook/assets/image_9.png)
 
-#### 4.1.1. Roles and Rights <a href="#toc225775630" id="toc225775630"></a>
-
-
+#### 1.1. Roles and Rights <a href="#toc225775630" id="toc225775630"></a>
 
 **Delivery**: When enabled, users can perform delivery-related operations.
 
@@ -89,7 +87,7 @@ The Manage Users section allows administrators to create, configure, and maintai
 
 **Make the call mandatory**: When enabled, users must make a call before completing the mission
 
-#### 4.1.2. Password policy for Mobile Access <a href="#id-5.1.2._password_policy" id="id-5.1.2._password_policy"></a>
+#### 1.2. Password policy for Mobile Access <a href="#id-5.1.2._password_policy" id="id-5.1.2._password_policy"></a>
 
 The password must contain a minimum of **8 characters**, including \_\_at least one uppercase \_\_
 
@@ -97,7 +95,7 @@ The password must contain a minimum of **8 characters**, including \_\_at least 
 
 ![](.gitbook/assets/image_10.png)
 
-### **4.2. Enabling Web Access** <a href="#toc225775632" id="toc225775632"></a>
+### **2. Enabling Web Access** <a href="#toc225775632" id="toc225775632"></a>
 
 1. Navigate to Configuration.
 2. From the list, select Manage Users.
@@ -118,34 +116,32 @@ The password must contain a minimum of **8 characters**, including \_\_at least 
 * Set the User Status to **Yes** or **No**, as required
 * When a profile is selected, all roles and access rights are inherited automatically. Roles and rights cannot be enabled or disabled manually at the user level\\. To change any roles or access rights, the modifications must be made in the profile configuration\\.
 
-1.  Enable or disable Web Access as required and select the Subcontractor Name, if
-
-    applicable.
+5. Enable or disable Web Access as required and select the Subcontractor Name, if applicable.
 
 ![](.gitbook/assets/image_12.png)
 
-2. Click Save. A notification email is sent to the user.
+6. Click Save. A notification email is sent to the user.
 
 ![](.gitbook/assets/image_13.png)
 
-3. Open the email and click the provided link to set the password.
+7. Open the email and click the provided link to set the password.
 
 ![](.gitbook/assets/image_14.png)
 
-4. Enter your email address and click Send verification code.
+8. Enter your email address and click Send verification code.
 
 ![](.gitbook/assets/image_15.png)
 
-5. Enter the received verification code and click Verify code.
+9. Enter the received verification code and click Verify code.
 
 ![](.gitbook/assets/image_16.png)
 
-6. Click Continue.
+10. Click Continue.
 
 ![](.gitbook/assets/image_17.png)
 
-7. Enter the new password and confirm it. For more information about the password policy, refer to the link [5.2.2. Password policy for Web Access](manage_users.md#_5.2.2._Password_policy)
-8. Click Continue.
+11. Enter the new password and confirm it. For more information about the password policy, refer to the link [5.2.2. Password policy for Web Access](manage_users.md#_5.2.2._Password_policy)
+12. Click Continue.
 
 ![](.gitbook/assets/image_18.png)
 
@@ -153,7 +149,7 @@ The password has been changed successfully.
 
 
 
-#### 4.2.1. Roles and Rights
+#### 2.1. Roles and Rights
 
 **Administration**: When enabled, users can access administrative configuration features.
 
@@ -259,7 +255,7 @@ The password has been changed successfully.
 
 **Modify dashboards**: When enabled, users can create and modify dashboards.
 
-#### 4.2.2. Password policy for Web Access <a href="#id-5.2.2._password_policy" id="id-5.2.2._password_policy"></a>
+#### 2.2. Password policy for Web Access <a href="#id-5.2.2._password_policy" id="id-5.2.2._password_policy"></a>
 
 The password must include at least three of the following character types:
 
@@ -270,7 +266,7 @@ The password must include at least three of the following character types:
 
 ![](.gitbook/assets/image_19.png)
 
-### 4.3. Creating a User from an Existing User <a href="#id-5.3._creating_a" id="id-5.3._creating_a"></a>
+### 3. Creating a User from an Existing User <a href="#id-5.3._creating_a" id="id-5.3._creating_a"></a>
 
 1. In **Manage Users**, click the **Actions** drop-down and select **Add**.
 2. Set Create from existing user to **Yes**.
@@ -288,7 +284,7 @@ The password must include at least three of the following character types:
 
 ![](.gitbook/assets/image_22.png)
 
-### 4.4. Days off <a href="#toc225775636" id="toc225775636"></a>
+### 4. Days off <a href="#toc225775636" id="toc225775636"></a>
 
 If a user has planned leave or vacation, the Days Off section can be used to record the unavailable dates.
 
