@@ -25,16 +25,16 @@ From the **Home page**,
 
 3. Choose the **Dashboard** from the **Home page custom dashboard**.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Select a period ranging from **Last Day** to **Last Seven Days** based on your preference.
 5. Click on **Save**
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Your homepage will display the chosen dashboard.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3.4. Configure the display of mission’s statuses <a href="#toc199075768" id="toc199075768"></a>
 

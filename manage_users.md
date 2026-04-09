@@ -2,7 +2,7 @@
 
 The Manage Users section allows administrators to create, configure, and maintain user accounts in Nomadia Delivery. From this screen, you can add new users, create users based on existing profiles, and manage user access to web and mobile applications. It also enables you to define user roles and permissions, assign agencies, configure working schedules, manage days off, and control access to key functional areas such as optimization, missions, depots, tickets, and vehicles. This ensures that each user has the appropriate access rights and availability based on their role and responsibilities within the organization.
 
-### Enabling Mobile Access <a href="#toc225775629" id="toc225775629"></a>
+### 5.1. Enabling Mobile Access <a href="#toc225775629" id="toc225775629"></a>
 
 1. Navigate to **Configuration**.
 
@@ -10,13 +10,13 @@ The Manage Users section allows administrators to create, configure, and maintai
 
 1. From the list, select **Manage Users**.
 
-; ![](.gitbook/assets/image_2.png)
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-1. Click the \_\_Actions \_\_drop-down and choose **Add**.
+2. Click the \_\_Actions \_\_drop-down and choose **Add**.
 
 ![](.gitbook/assets/image_3.png)
 
-1. To create a new user, set Create from existing user to **No**. Click **OK**. For step-by-step instructions, refer to section [5.3. Creating a User from an Existing User](manage_users.md#_5.3._Creating_a)
+3. To create a new user, set Create from existing user to **No**. Click **OK**. For step-by-step instructions, refer to section [5.3. Creating a User from an Existing User](manage_users.md#_5.3._Creating_a)
 
 ![](.gitbook/assets/image_4.png)
 
@@ -25,27 +25,13 @@ The Manage Users section allows administrators to create, configure, and maintai
 * If Contractor is selected, access can be granted to a Contractor.
 * If Subcontractor is selected, access can be granted to a Subcontractor
 * Enter the **Login ID, First Name, and Last Name**.
-*   The **Login ID** is required to be in an email format. For **Mobile Users**, the login ID is not
-
-    ```
-    required to be a valid email address\.
-    ```
+* The **Login ID** is required to be in an email format. For **Mobile Users**, the login ID is not required to be a valid email address\\.
 
 ![](.gitbook/assets/image_5.png)
 
 * Set the User Status to **Yes** or **No**, as required.
-*   When a profile is selected, all roles and access rights are inherited automatically. Roles
-
-    ```
-    and rights cannot be enabled or disabled manually at the user level\. To change any roles 
-
-     or access rights, the modifications must be made in the profile configuration\.
-    ```
-*   Enable **Mobile Access** and enter the user’s Password. For more information about the
-
-    ```
-    password policy, refer to the link [5\.1\.2\. Password policy for Mobile Access](#_5.1.2._Password_policy)
-    ```
+* When a profile is selected, all roles and access rights are inherited automatically. Roles and rights cannot be enabled or disabled manually at the user level\\. To change any roles or access rights, the modifications must be made in the profile configuration\\.
+* Enable **Mobile Access** and enter the user’s Password. For more information about the password policy, refer to the link \[5\\.1\\.2\\. Password policy for Mobile Access]\(#\_5.1.2.\_Password\_policy)
 
 ![](.gitbook/assets/image_6.png)
 
@@ -61,89 +47,49 @@ The Manage Users section allows administrators to create, configure, and maintai
 
 ![](.gitbook/assets/image_9.png)
 
-### 5.1.1. Roles and Rights <a href="#toc225775630" id="toc225775630"></a>
+#### 5.1.1. Roles and Rights <a href="#toc225775630" id="toc225775630"></a>
 
-**Roles and Rights**
 
-**Description**
 
-Delivery
+**Delivery**: When enabled, users can perform delivery-related operations.
 
-When enabled, users can perform delivery-related operations.
+**Docking**: When enabled, users can access and manage docking activities
 
-Docking
+**Loading / Unloading**: When enabled, users can load and unload parcels in their vehicles.
 
-When enabled, users can access and manage docking activities
+**Loading when not fully prepared**: When enabled, users can load parcels even if the mission is not fully prepared.
 
-Loading / Unloading
+**Prepare**: When enabled, users can prepare missions before execution.
 
-When enabled, users can load and unload parcels in their vehicles.
+**Reception**: When enabled, users can receive parcels at the destination or depot.
 
-Loading when not fully prepared
+**Storage**: When enabled, users can move parcels into storage locations.
 
-When enabled, users can load parcels even if the mission is not fully prepared.
+**Scan unknown missions**: When enabled, users can scan and process missions that are not predefined.
 
-Prepare
+**Create routes**: When enabled, users can create and manage delivery routes.
 
-When enabled, users can prepare missions before execution.
+**Handle unassigned deliveries**: When enabled, users can manage deliveries not assigned to any route or resource.
 
-Reception
+**Handle unassigned pickups**: When enabled, users can manage pickups not assigned to any route or resource
 
-When enabled, users can receive parcels at the destination or depot.
+**Reassign missions**: When enabled, users can reassign missions to different routes or resources.
 
-Storage
+**Scan not mandatory**: When enabled, scanning parcels is optional during operations.
 
-When enabled, users can move parcels into storage locations.
+**Reposition addresses**: When enabled, users can modify or correct mission addresses.
 
-Scan unknown missions
+**Supervisor screen**: When enabled, users can access the supervisor monitoring screen.
 
-When enabled, users can scan and process missions that are not predefined.
+**Parcel transfer**: When enabled, users can transfer parcels between missions or containers.
 
-Create routes
+**Group into a container**: When enabled, users can group multiple parcels into a single container.
 
-When enabled, users can create and manage delivery routes.
+**Modify missions**: When enabled, users can edit mission details.
 
-Handle unassigned deliveries
+**Make the call mandatory**: When enabled, users must make a call before completing the mission
 
-When enabled, users can manage deliveries not assigned to any route or resource.
-
-Handle unassigned pickups
-
-When enabled, users can manage pickups not assigned to any route or resource
-
-Reassign missions
-
-When enabled, users can reassign missions to different routes or resources.
-
-Scan not mandatory
-
-When enabled, scanning parcels is optional during operations.
-
-Reposition addresses
-
-When enabled, users can modify or correct mission addresses.
-
-Supervisor screen
-
-When enabled, users can access the supervisor monitoring screen.
-
-Parcel transfer
-
-When enabled, users can transfer parcels between missions or containers.
-
-Group into a container
-
-When enabled, users can group multiple parcels into a single container.
-
-Modify missions
-
-When enabled, users can edit mission details.
-
-Make the call mandatory
-
-When enabled, users must make a call before completing the mission
-
-### 5.1.2. Password policy for Mobile Access <a href="#id-5.1.2._password_policy" id="id-5.1.2._password_policy"></a>
+#### 5.1.2. Password policy for Mobile Access <a href="#id-5.1.2._password_policy" id="id-5.1.2._password_policy"></a>
 
 The password must contain a minimum of **8 characters**, including \_\_at least one uppercase \_\_
 
@@ -151,7 +97,7 @@ The password must contain a minimum of **8 characters**, including \_\_at least 
 
 ![](.gitbook/assets/image_10.png)
 
-## Enabling Web Access <a href="#toc225775632" id="toc225775632"></a>
+### **5.2. Enabling Web Access** <a href="#toc225775632" id="toc225775632"></a>
 
 1. Navigate to Configuration.
 2. From the list, select Manage Users.
@@ -170,13 +116,7 @@ The password must contain a minimum of **8 characters**, including \_\_at least 
 ![](.gitbook/assets/image_11.png)
 
 * Set the User Status to **Yes** or **No**, as required
-*   When a profile is selected, all roles and access rights are inherited automatically. Roles
-
-    ```
-    and rights cannot be enabled or disabled manually at the user level\. To change any roles     
-
-    or access rights, the modifications must be made in the profile configuration\.
-    ```
+* When a profile is selected, all roles and access rights are inherited automatically. Roles and rights cannot be enabled or disabled manually at the user level\\. To change any roles or access rights, the modifications must be made in the profile configuration\\.
 
 1.  Enable or disable Web Access as required and select the Subcontractor Name, if
 
@@ -184,250 +124,142 @@ The password must contain a minimum of **8 characters**, including \_\_at least 
 
 ![](.gitbook/assets/image_12.png)
 
-1. Click Save. A notification email is sent to the user.
+2. Click Save. A notification email is sent to the user.
 
 ![](.gitbook/assets/image_13.png)
 
-1. Open the email and click the provided link to set the password.
+3. Open the email and click the provided link to set the password.
 
 ![](.gitbook/assets/image_14.png)
 
-1. Enter your email address and click Send verification code.
+4. Enter your email address and click Send verification code.
 
 ![](.gitbook/assets/image_15.png)
 
-1. Enter the received verification code and click Verify code.
+5. Enter the received verification code and click Verify code.
 
 ![](.gitbook/assets/image_16.png)
 
-1. Click Continue.
+6. Click Continue.
 
 ![](.gitbook/assets/image_17.png)
 
-1. Enter the new password and confirm it. For more information about the password policy, refer to the link [5.2.2. Password policy for Web Access](manage_users.md#_5.2.2._Password_policy)
-2. Click Continue.
+7. Enter the new password and confirm it. For more information about the password policy, refer to the link [5.2.2. Password policy for Web Access](manage_users.md#_5.2.2._Password_policy)
+8. Click Continue.
 
 ![](.gitbook/assets/image_18.png)
 
 The password has been changed successfully.
 
-### &#x20;<a href="#toc225775633" id="toc225775633"></a>
 
-### 5.2.1. Roles and Rights
 
-Roles and Rights
+#### 5.2.1. Roles and Rights
 
-Description
+**Administration**: When enabled, users can access administrative configuration features.
 
-Administration
+**Manage articles**: When enabled, users can create, update, and manage articles.
 
-When enabled, users can access administrative configuration features.
+**Missions**: When enabled, users can access mission-related functionalities.
 
-Manage articles
+**List of missions**: When enabled, users can view the list of all missions.
 
-When enabled, users can create, update, and manage articles.
+**Create missions**: When enabled, users can create new missions.
 
-Missions
+**Free address available**: When enabled, users can create missions without selecting a predefined address.
 
-When enabled, users can access mission-related functionalities.
+**Import missions**: When enabled, users can import missions in bulk.
 
-List of missions
+**Delete missions**: When enabled, users can delete existing missions.
 
-When enabled, users can view the list of all missions.
+**Modify missions**: When enabled, users can edit mission details.
 
-Create missions
+**Modify missions after printing**: When enabled, users can modify missions even after they have been printed.
 
-When enabled, users can create new missions.
+**Watch the route**: When enabled, users can view route details and progress.
 
-Free address available
+**Manage the route**: When enabled, users can create, edit, and manage routes.
 
-When enabled, users can create missions without selecting a predefined address.
+**Customize display parameters**: When enabled, users can customize mission display settings.
 
-Import missions
+**Tickets**: When enabled, users can access ticket management features.
 
-When enabled, users can import missions in bulk.
+**See the tickets list**: When enabled, users can view the list of tickets.
 
-Delete missions
+**Answer to tickets**: When enabled, users can respond to tickets.
 
-When enabled, users can delete existing missions.
+**Optimization**: When enabled, users can access optimization features.
 
-Modify missions
+**Schedule**: When enabled, users can create and manage optimized schedules.
 
-When enabled, users can edit mission details.
+**See other people's simulations**: When enabled, users can view simulations created by other users
 
-Modify missions after printing
+**Edit other people's simulations**: When enabled, users can modify simulations created by other users.
 
-When enabled, users can modify missions even after they have been printed.
+**Modify optimization settings**: When enabled, users can configure optimization parameters.
 
-Watch the route
+**Depot**: When enabled, users can access depot-related features.
 
-When enabled, users can view route details and progress.
+**Manage the depots**: When enabled, users can create, update, and manage depots.
 
-Manage the route
+**Vehicles**: When enabled, users can access vehicle management features.
 
-When enabled, users can create, edit, and manage routes.
+**Manage the vehicles**: When enabled, users can create, update, and manage vehicles.
 
-Customize display parameters
+**Customize the view of fleets and vehicles**: When enabled, users can customize fleet and vehicle constraints.
 
-When enabled, users can customize mission display settings.
+**Fulfillment**: When enabled, users can access fulfillment features.
 
-Tickets
+**Fulfillment follow up**: When enabled, users can track fulfillment progress and status.
 
-When enabled, users can access ticket management features.
+**See other people's schedules**: When enabled, users can view schedules created by other users
 
-See the tickets list
+**Contractors**: When enabled, users can access contractor management features.
 
-When enabled, users can view the list of tickets.
+**List of contractors**: When enabled, users can view the list of contractors.
 
-Answer to tickets
+**Create contractors**: When enabled, users can create new contractors.
 
-When enabled, users can respond to tickets.
+**Import contractors**: When enabled, users can import contractors in bulk.
 
-Optimization
+**Delete contractors**: When enabled, users can delete contractors.
 
-When enabled, users can access optimization features.
+**Modify contractors**: When enabled, users can edit contractor details.
 
-Schedule
+**Address list**: When enabled, users can access address management features.
 
-When enabled, users can create and manage optimized schedules.
+**Address list**: When enabled, users can view the list of addresses.
 
-See other people's simulations
+**Create addresses**: When enabled, users can create new addresses.
 
-When enabled, users can view simulations created by other users
+**Import addresses**: When enabled, users can import addresses in bulk.
 
-Edit other people's simulations
+**Delete addresses**: When enabled, users can delete addresses.
 
-When enabled, users can modify simulations created by other users.
+**Modify addresses**: When enabled, users can edit address details.
 
-Modify optimization settings
+**Subcontractors**: When enabled, users can access subcontractor management features.
 
-When enabled, users can configure optimization parameters.
+**List of subcontractors**: When enabled, users can view the list of subcontractors.
 
-Depot
+**Create subcontractors**: When enabled, users can create new subcontractors.
 
-When enabled, users can access depot-related features.
+**Update subcontractors**: When enabled, users can update subcontractor details.
 
-Manage the depots
+**Delete subcontractors**: When enabled, users can delete subcontractors.
 
-When enabled, users can create, update, and manage depots.
+**Import subcontractors**: When enabled, users can import subcontractors in bulk.
 
-Vehicles
+**List of subcontractor’s schedule**: When enabled, users can view subcontractors’ schedules.
 
-When enabled, users can access vehicle management features.
+**List of subcontractors vehicles**: When enabled, users can view subcontractors’ vehicles.
 
-Manage the vehicles
+**Dashboard and KPIs**: When enabled, users can access dashboards and KPIs.
 
-When enabled, users can create, update, and manage vehicles.
+**View dashboards**: When enabled, users can view dashboards and KPI data.
 
-Customize the view of fleets and vehicles
+**Modify dashboards**: When enabled, users can create and modify dashboards.
 
-When enabled, users can customize fleet and vehicle constraints.
-
-Fulfillment
-
-When enabled, users can access fulfillment features.
-
-Fulfillment follow up
-
-When enabled, users can track fulfillment progress and status.
-
-See other people's schedules
-
-When enabled, users can view schedules created by other users
-
-Contractors
-
-When enabled, users can access contractor management features.
-
-List of contractors
-
-When enabled, users can view the list of contractors.
-
-Create contractors
-
-When enabled, users can create new contractors.
-
-Import contractors
-
-When enabled, users can import contractors in bulk.
-
-Delete contractors
-
-When enabled, users can delete contractors.
-
-Modify contractors
-
-When enabled, users can edit contractor details.
-
-Address list
-
-When enabled, users can access address management features.
-
-Address list
-
-When enabled, users can view the list of addresses.
-
-Create addresses
-
-When enabled, users can create new addresses.
-
-Import addresses
-
-When enabled, users can import addresses in bulk.
-
-Delete addresses
-
-When enabled, users can delete addresses.
-
-Modify addresses
-
-When enabled, users can edit address details.
-
-Subcontractors
-
-When enabled, users can access subcontractor management features.
-
-List of subcontractors
-
-When enabled, users can view the list of subcontractors.
-
-Create subcontractors
-
-When enabled, users can create new subcontractors.
-
-Update subcontractors
-
-When enabled, users can update subcontractor details.
-
-Delete subcontractors
-
-When enabled, users can delete subcontractors.
-
-Import subcontractors
-
-When enabled, users can import subcontractors in bulk.
-
-List of subcontractor’s schedule
-
-When enabled, users can view subcontractors’ schedules.
-
-List of subcontractors vehicles
-
-When enabled, users can view subcontractors’ vehicles.
-
-Dashboard and KPIs
-
-When enabled, users can access dashboards and KPIs.
-
-View dashboards
-
-When enabled, users can view dashboards and KPI data.
-
-Modify dashboards
-
-When enabled, users can create and modify dashboards.
-
-### 5.2.2. Password policy for Web Access <a href="#id-5.2.2._password_policy" id="id-5.2.2._password_policy"></a>
+#### 5.2.2. Password policy for Web Access <a href="#id-5.2.2._password_policy" id="id-5.2.2._password_policy"></a>
 
 The password must include at least three of the following character types:
 
@@ -438,7 +270,7 @@ The password must include at least three of the following character types:
 
 ![](.gitbook/assets/image_19.png)
 
-## 5.3. Creating a User from an Existing User <a href="#id-5.3._creating_a" id="id-5.3._creating_a"></a>
+### 5.3. Creating a User from an Existing User <a href="#id-5.3._creating_a" id="id-5.3._creating_a"></a>
 
 1. In **Manage Users**, click the **Actions** drop-down and select **Add**.
 2. Set Create from existing user to **Yes**.
@@ -452,11 +284,11 @@ The password must include at least three of the following character types:
 
 ![](.gitbook/assets/image_21.png)
 
-1. Click **Save** to complete the process.
+2. Click **Save** to complete the process.
 
 ![](.gitbook/assets/image_22.png)
 
-## 5.4. Days off <a href="#toc225775636" id="toc225775636"></a>
+### 5.4. Days off <a href="#toc225775636" id="toc225775636"></a>
 
 If a user has planned leave or vacation, the Days Off section can be used to record the unavailable dates.
 
@@ -466,15 +298,15 @@ If a user has planned leave or vacation, the Days Off section can be used to rec
 
 ![](.gitbook/assets/image_23.png)
 
-1. Click the **+** (Add) icon.
+2. Click the **+** (Add) icon.
 
 ![](.gitbook/assets/image_24.png)
 
-1. Enter the **From Date, To Date**, and specify the **Reason**.
-2. Click **Add**.
+3. Enter the **From Date, To Date**, and specify the **Reason**.
+4. Click **Add**.
 
 ![](.gitbook/assets/image_25.png)
 
-1. Click on **Save** to update the details
+5. Click on **Save** to update the details
 
 ![](.gitbook/assets/image_26.png)
