@@ -6,8 +6,6 @@ The Home Screen is the default landing page when you access Nomadia Delivery. It
 
 ![](.gitbook/assets/screenshot_1.png)
 
-![](.gitbook/assets/screenshot_2.png)
-
 ### 2.2. Key Areas of the Home Screen
 
 <table data-header-hidden><thead><tr><th width="83.4000244140625" valign="top">Code</th><th valign="top">Section</th><th valign="top">Purpose</th></tr></thead><tbody><tr><td valign="top">1</td><td valign="top">Navigation Tabs</td><td valign="top"><p>Access the main parts of the app:</p><p>Missions – Provides a unified view of all missions with support for planning, tracking, and optimization based on 100+ constraints.</p><p>Dashboard – Provides data visualization tools to monitor missions, routes, administrative KPIs, fulfillment KPIs, and other key metrics.</p><p>Fulfillment – Used for tracking live locations and monitoring mission progress with Proof of Delivery (PoD) at the route level</p><p>Configuration – Customize the app to your needs.</p></td></tr><tr><td valign="top">2</td><td valign="top">User and Help Icons</td><td valign="top"><p>Top-right icons:</p><p>Help Me – FAQs and documentation.</p><p>Account – User settings, updates, and logout.</p></td></tr><tr><td valign="top">3</td><td valign="top">My KPI’s</td><td valign="top">Users can select a homepage-compatible dashboard from 'My Preferences' and set it to display on the homepage.</td></tr><tr><td valign="top">4</td><td valign="top">Mission Statistics</td><td valign="top">Displays mission statuses from the past seven days with up to five KPI categories, customizable via “My Preferences”.</td></tr></tbody></table>
