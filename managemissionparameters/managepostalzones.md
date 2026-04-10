@@ -1,104 +1,36 @@
 # 7.1. Manage Postal Zones
 
-The Manage Postal Zones feature allows administrators and logistics managers to define and manage geographical delivery zones based on postal codes. These zones are
-
-essential for organizing deliveries, assigning resources, and optimizing routes within specificareas
+The Manage Postal Zones feature allows administrators and logistics managers to define and manage geographical delivery zones based on postal codes. These zones are essential for organizing deliveries, assigning resources, and optimizing routes within specificareas
 
 ## 1. Import Postal Zones <a href="#toc225775647" id="toc225775647"></a>
 
-**Field name in import file**
+<table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Field name in import file</td><td valign="top">Field name in back-office table</td><td valign="top">Description</td></tr><tr><td valign="top">Id</td><td valign="top">Code</td><td valign="top">Mandatory. It should be unique among the other Zone ids</td></tr><tr><td valign="top">Name</td><td valign="top">Name</td><td valign="top">Mandatory</td></tr><tr><td valign="top">Organization</td><td valign="top">Agency</td><td valign="top">Mandatory</td></tr><tr><td valign="top">Postal Codes</td><td valign="top">Postal Codes</td><td valign="top"> </td></tr><tr><td valign="top">Normalized Size</td><td valign="top">Postal Codes normalized length</td><td valign="top"> </td></tr><tr><td valign="top">Normalize With</td><td valign="top">Prefix</td><td valign="top"> </td></tr><tr><td valign="top">All Skills Required</td><td valign="top">Require all skills to be compatible</td><td valign="top"> </td></tr><tr><td valign="top">Skills</td><td valign="top">N/A</td><td valign="top"> </td></tr><tr><td valign="top">Status Customization Types</td><td valign="top">N/A</td><td valign="top"> </td></tr><tr><td valign="top">Wkt Geometry</td><td valign="top">N/A</td><td valign="top"> </td></tr><tr><td valign="top">Opening Days</td><td valign="top">Opening day x</td><td valign="top">Suffix x is equal from 1 to 10</td></tr><tr><td valign="top">Opening Hours</td><td valign="top">Opening Hours x</td><td valign="top">Suffix x is equal from 1 to 10</td></tr></tbody></table>
 
-**Field name in back-office table**
 
-**Description**
-
-Id
-
-Code
-
-Mandatory. It should be unique among the other Zone ids
-
-Name
-
-Name
-
-Mandatory
-
-Organization
-
-Agency
-
-Mandatory
-
-Postal Codes
-
-Postal Codes
-
-Normalized Size
-
-Postal Codes normalized length
-
-Normalize With
-
-Prefix
-
-All Skills Required
-
-Require all skills to be compatible
-
-Skills
-
-N/A
-
-Status Customization Types
-
-N/A
-
-Wkt Geometry
-
-N/A
-
-Opening Days
-
-Opening day x
-
-Suffix x is equal from 1 to 10
-
-Opening Hours
-
-Opening Hours x
-
-Suffix x is equal from 1 to 10
 
 1. Click on **Configuration Tab**
 
-!\[A screenshot of a computer
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-AI-generated content may be incorrect.]\(screenshots/postalzones/image\_1.png)
-
-1. Click on \_\_Configuration \_\_Menu
-2. Under **My data** section, click on Manage Zones
+2. Click on Configuration Menu
+3. Under **My data** section, click on Manage Zones
 
 ![](<../.gitbook/assets/image_2 (3).png>)
 
-1. Click the **Actions** dropdown menu.
-2. Click on **Import**
+4. Click the **Actions** dropdown menu.
+5. Click on **Import**
 
-!\[A screenshot of a computer
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-AI-generated content may be incorrect.]\(screenshots/postalzones/image\_3.png)
+6. Click on **Browse File** to upload the file that contains the zone data.
 
-1. Click on **Browse File** to upload the file that contains the zone data.
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-!\[A screenshot of a computer
-
-AI-generated content may be incorrect.]\(screenshots/postalzones/image\_4.png)
-
-1. Select a valid **Zone file** from your local system.
+7. Select a valid **Zone file** from your local system.
 
 ![](<../.gitbook/assets/image_5 (3).png>)
 
-1. Postal Zones will be imported successfully.
+8. Postal Zones will be imported successfully.
 
 ![](<../.gitbook/assets/image_6 (2).png>)
 
@@ -112,7 +44,7 @@ AI-generated content may be incorrect.]\(screenshots/postalzones/image\_4.png)
 
 ![](<../.gitbook/assets/image_7 (2).png>)
 
-1. Fill in the required fields: **Code**, **Name**, and **Prefix**.
+6. Fill in the required fields: **Code**, **Name**, and **Prefix**.
 
 **Note**: The Prefix is used to standardize postal codes to a fixed length of 6 digits. In regions where postal codes are shorter (e.g., 5 digits in some areas of France), the system automatically adds the defined prefix to reach the required length.
 
