@@ -1,6 +1,6 @@
-# understandingthemissionparameters
+# 6. understanding the mission parameters
 
-### 5.16. Understanding the mission parameters <a href="#toc225775642" id="toc225775642"></a>
+### 1. Understanding the mission parameters <a href="#toc225775642" id="toc225775642"></a>
 
 Mission Parameters are the core data elements that define the characteristics, objectives, and execution details of each mission. Understanding these parameters is essential for ensuring that missions are properly configured, assigned, and executed in the field.
 
@@ -8,7 +8,7 @@ These parameters provide both operational and logistical information used by
 
 coordinators, dispatchers, and deliverers.
 
-### 5.21. Access Mission Parameters <a href="#toc199075776" id="toc199075776"></a>
+### 2. Access Mission Parameters <a href="#toc199075776" id="toc199075776"></a>
 
 From the **Mission page**
 
@@ -16,7 +16,9 @@ From the **Mission page**
 
 ![](<.gitbook/assets/image_1 (1).png>)
 
-### 5.32. Mission parameters description <a href="#toc199075777" id="toc199075777"></a>
+### 3. Mission parameters description <a href="#toc199075777" id="toc199075777"></a>
+
+
 
 Mission parameters tab
 
