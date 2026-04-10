@@ -10,7 +10,7 @@ The Manage Postal Zones feature allows administrators and logistics managers to 
 
 1. Click on **Configuration Tab**
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on Configuration Menu
 3. Under **My data** section, click on Manage Zones
@@ -20,11 +20,11 @@ The Manage Postal Zones feature allows administrators and logistics managers to 
 4. Click the **Actions** dropdown menu.
 5. Click on **Import**
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Click on **Browse File** to upload the file that contains the zone data.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Select a valid **Zone file** from your local system.
 
@@ -48,7 +48,7 @@ The Manage Postal Zones feature allows administrators and logistics managers to 
 
 **Note**: The Prefix is used to standardize postal codes to a fixed length of 6 digits. In regions where postal codes are shorter (e.g., 5 digits in some areas of France), the system automatically adds the defined prefix to reach the required length.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Click on **Save**
 

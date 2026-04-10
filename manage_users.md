@@ -10,7 +10,7 @@ The Manage Users section allows administrators to create, configure, and maintai
 
 2. From the list, select **Manage Users**.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click the \_\_Actions \_\_drop-down and choose **Add**.
 
@@ -108,7 +108,7 @@ The password must contain a minimum of **8 characters**, including \_\_at least 
     * Enter the Login ID, First Name, and Last Name.
     * For Web Users, the Login ID must be in an email format and must be a valid email address
 
-    <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
     * Set the User Status to Yes or No, as required
     * When a profile is selected, all roles and access rights are inherited automatically. Roles and rights cannot be enabled or disabled manually at the user level\\. To change any roles or access rights, the modifications must be made in the profile configuration\\.

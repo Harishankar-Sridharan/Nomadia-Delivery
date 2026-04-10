@@ -1,4 +1,4 @@
-# 4. Manage User Profile
+# 3. Manage User Profile
 
 Organizations with hundreds or thousands of users can take advantage of the User Profiles feature to create multiple profiles with different access rights, simplifying user and permission management.
 
@@ -8,7 +8,7 @@ Organizations with hundreds or thousands of users can take advantage of the User
 
 2. From the list, select Manage User Profiles.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click the Actions drop-down and choose Add.
 

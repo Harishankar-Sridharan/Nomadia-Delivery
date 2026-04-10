@@ -23,16 +23,16 @@ From the **Home page**,
 
 3. Choose the **Dashboard** from the **Home page custom dashboard**.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Select a period ranging from **Last Day** to **Last Seven Days** based on your preference.
 5. Click on **Save**
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Your homepage will display the chosen dashboard.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Configure the display of mission’s statuses <a href="#toc199075768" id="toc199075768"></a>
 
@@ -56,11 +56,11 @@ From the **Home page**,
 
 4. After selecting the desired statuses, click on **Save**.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Your home page will display the selected KPI’s.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Refresh KPI date and Mission statuses <a href="#toc199075769" id="toc199075769"></a>
 
@@ -74,4 +74,4 @@ From the **Home Page**,
 
     information.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
