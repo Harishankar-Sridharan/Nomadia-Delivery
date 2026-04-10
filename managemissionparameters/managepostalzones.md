@@ -2,7 +2,7 @@
 
 The Manage Postal Zones feature allows administrators and logistics managers to define and manage geographical delivery zones based on postal codes. These zones are essential for organizing deliveries, assigning resources, and optimizing routes within specificareas
 
-## 1. Import Postal Zones <a href="#toc225775647" id="toc225775647"></a>
+### 1. Import Postal Zones <a href="#toc225775647" id="toc225775647"></a>
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top">Field name in import file</td><td valign="top">Field name in back-office table</td><td valign="top">Description</td></tr><tr><td valign="top">Id</td><td valign="top">Code</td><td valign="top">Mandatory. It should be unique among the other Zone ids</td></tr><tr><td valign="top">Name</td><td valign="top">Name</td><td valign="top">Mandatory</td></tr><tr><td valign="top">Organization</td><td valign="top">Agency</td><td valign="top">Mandatory</td></tr><tr><td valign="top">Postal Codes</td><td valign="top">Postal Codes</td><td valign="top"> </td></tr><tr><td valign="top">Normalized Size</td><td valign="top">Postal Codes normalized length</td><td valign="top"> </td></tr><tr><td valign="top">Normalize With</td><td valign="top">Prefix</td><td valign="top"> </td></tr><tr><td valign="top">All Skills Required</td><td valign="top">Require all skills to be compatible</td><td valign="top"> </td></tr><tr><td valign="top">Skills</td><td valign="top">N/A</td><td valign="top"> </td></tr><tr><td valign="top">Status Customization Types</td><td valign="top">N/A</td><td valign="top"> </td></tr><tr><td valign="top">Wkt Geometry</td><td valign="top">N/A</td><td valign="top"> </td></tr><tr><td valign="top">Opening Days</td><td valign="top">Opening day x</td><td valign="top">Suffix x is equal from 1 to 10</td></tr><tr><td valign="top">Opening Hours</td><td valign="top">Opening Hours x</td><td valign="top">Suffix x is equal from 1 to 10</td></tr></tbody></table>
 
@@ -34,7 +34,7 @@ The Manage Postal Zones feature allows administrators and logistics managers to 
 
 ![](<../.gitbook/assets/image_6 (2).png>)
 
-## 6.3.1.2. Add a Postal Zone <a href="#toc199075784" id="toc199075784"></a>
+### 2. Add a Postal Zone <a href="#toc199075784" id="toc199075784"></a>
 
 1. Click on **Configuration Tab**
 2. Click on **Configuration Menu**
@@ -48,21 +48,17 @@ The Manage Postal Zones feature allows administrators and logistics managers to 
 
 **Note**: The Prefix is used to standardize postal codes to a fixed length of 6 digits. In regions where postal codes are shorter (e.g., 5 digits in some areas of France), the system automatically adds the defined prefix to reach the required length.
 
-!\[A screenshot of a computer
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-AI-generated content may be incorrect.]\(screenshots/postalzones/image\_8.png)
+7. Click on **Save**
 
-1. Click on **Save**
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-!\[A white rectangular object with a black border
-
-AI-generated content may be incorrect.]\(screenshots/postalzones/image\_9.png)
-
-1. Postal Zones will be added successfully
+8. Postal Zones will be added successfully
 
 ![](<../.gitbook/assets/image_10 (2).png>)
 
-## 6.3.1.3. Create Postal Zones by Territory Management (Sectorization) <a href="#toc199075785" id="toc199075785"></a>
+### 3. Create Postal Zones by Territory Management (Sectorization) <a href="#toc199075785" id="toc199075785"></a>
 
 1. Click on **Configuration Tab**
 2. Click on **Configuration Menu**
@@ -77,27 +73,25 @@ For detailed information, refer to the Territory Manager Manual available at the
 
 ![](<../.gitbook/assets/image_11 (2).png>)
 
-1. Select the appropriate **Indicators** and define the **Time Period**
-2. Click on **Assign Territories**
+7. Select the appropriate **Indicators** and define the **Time Period**
+8. Click on **Assign Territories**
 
 ![](<../.gitbook/assets/image_12 (2).png>)
 
-1. Click on **Automation**
+9. Click on **Automation**
 
 ![](<../.gitbook/assets/image_13 (2).png>)
 
-1.  In the **Balancing Points** section, click **Start** to prepare the system for
-
-    automatic balancing.
+10. In the **Balancing Points** section, click **Start** to prepare the system for automatic balancing.
 
 ![](<../.gitbook/assets/image_14 (1).png>)
 
-1. Click **“Let’s go!”** to launch the automated balancing of territories.
+11. Click **“Let’s go!”** to launch the automated balancing of territories.
 
 ![](<../.gitbook/assets/image_15 (2).png>)
 
-1. Sectors are generated according to the balancing rules set by the user.
-2. To ensure the sectorization respects postal code boundaries, click on **Administrative Borders** and select **Postal Code** from the dropdown menu.
+12. Sectors are generated according to the balancing rules set by the user.
+13. To ensure the sectorization respects postal code boundaries, click on **Administrative Borders** and select **Postal Code** from the dropdown menu.
 
 ![](<../.gitbook/assets/image_16 (1).png>)
 
@@ -105,7 +99,7 @@ Sectors are aligned based on postal boundaries
 
 **Disclaimer: Postal code boundary data is unavailable for certain countries.**
 
-## 6.3.1.4. Delete a Postal Zone <a href="#toc199075786" id="toc199075786"></a>
+### 4. Delete a Postal Zone <a href="#toc199075786" id="toc199075786"></a>
 
 1. Click on **Configuration Tab**
 2. Click on **Configuration Menu**
@@ -114,28 +108,23 @@ Sectors are aligned based on postal boundaries
 
 ![](<../.gitbook/assets/image_17 (1).png>)
 
-1. Click the **Actions** dropdown menu.
-2. Click on **Delete**
+5. Click the **Actions** dropdown menu.
+6. Click on **Delete**
 
-!\[A screenshot of a computer
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-AI-generated content may be incorrect.]\(screenshots/postalzones/image\_18.png)
 
-1. You will see a confirmation pop-up message stating: "\_\_Are you sure you want to \_\_
 
-\_\_ delete this zone?"\_\_
+7. You will see a confirmation pop-up message stating: "Are you sure you want to delete this zone"?
+8. Click on **Yes**
 
-1. Click on **Yes**
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-!\[A screenshot of a computer
-
-AI-generated content may be incorrect.]\(screenshots/postalzones/image\_19.png)
-
-1. Postal Zone will be deleted successfully
+9. Postal Zone will be deleted successfully
 
 ![](<../.gitbook/assets/image_20 (2).png>)
 
-## 6.3.1.5. Export a Postal Zone <a href="#toc199075787" id="toc199075787"></a>
+### 5. Export a Postal Zone <a href="#toc199075787" id="toc199075787"></a>
 
 1. Click on **Configuration Tab**
 2. Click on **Configuration Menu**
@@ -146,11 +135,11 @@ AI-generated content may be incorrect.]\(screenshots/postalzones/image\_19.png)
 
 ![](<../.gitbook/assets/image_21 (1).png>)
 
-1. Postal Zone will be exported successfully
+7. Postal Zone will be exported successfully
 
 ![](<../.gitbook/assets/image_22 (2).png>)
 
-## 6.3.1.6. Color a Postal Zone <a href="#toc199075788" id="toc199075788"></a>
+### 6. Color a Postal Zone <a href="#toc199075788" id="toc199075788"></a>
 
 Apply conditions based on zone attributes such as type of mission (Delivery, Pickup), Zone priority, Assigned deliverer, Postal code prefix, etc.
 
@@ -161,20 +150,18 @@ Apply conditions based on zone attributes such as type of mission (Delivery, Pic
 5. Click the **Actions** dropdown menu.
 6. Click on **Coloring**
 
-!\[A screenshot of a computer
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-AI-generated content may be incorrect.]\(screenshots/postalzones/image\_23.png)
-
-1. Choose a\_\_ Color\_\_
-2. Click on **Save**
+7. Choose a Color
+8. Click on **Save**
 
 ![](<../.gitbook/assets/image_24 (1).png>)
 
-1. The selected color has been applied successfully.
+9. The selected color has been applied successfully.
 
 ![](<../.gitbook/assets/image_25 (2).png>)
 
-## 6.3.1.7. Customize Zones Table <a href="#toc225775653" id="toc225775653"></a>
+### 7. Customize Zones Table <a href="#toc225775653" id="toc225775653"></a>
 
 Refer to [4.3.1.1. Import a Postal Zones](managepostalzones.md#_4.3.1.1._Import_a) to have the complete list of available fields.
 
@@ -187,18 +174,15 @@ Refer to [4.3.1.1. Import a Postal Zones](managepostalzones.md#_4.3.1.1._Import_
 
 ![](<../.gitbook/assets/image_26 (1).png>)
 
-1. Choose which fields you want to display on the table.
+7. Choose which fields you want to display on the table.
 
-\_\_ Note\_\_: Avoid selecting too many fields at once, as it may become difficult to read or
+&#x20; Note: Avoid selecting too many fields at once, as it may become difficult to read or navigate.
 
-\_\_ \_\_navigate.
-
-1. Click on **Save**
+8. Click on **Save**
 
 ![](../.gitbook/assets/image_27.png)
 
-1. The selected fields have been displayed on the table.
+9. The selected fields have been displayed on the table.
 
 ![](<../.gitbook/assets/image_28 (1).png>)
 
-## 6.3.2. Manage Vehicle Fleets <a href="#toc199075790" id="toc199075790"></a>
