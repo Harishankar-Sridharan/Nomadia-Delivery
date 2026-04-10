@@ -100,22 +100,18 @@ The password must contain a minimum of **8 characters**, including \_\_at least 
 1. Navigate to Configuration.
 2. From the list, select Manage Users.
 3. Click the Actions drop-down and select Add.
-4. To create a new user, set Create from existing user to No, then click OK.
+4.  To create a new user, set Create from existing user to No, then click OK.
 
-* Select the appropriate Profile Name: **Planner** (**Standard)**, **Contractor**, or **Subcontractor**.
-* If Planner (Standard) is selected, access can be granted to a Transporter.
-* If Contractor is selected, access can be granted to a Contractor.
-* If Subcontractor is selected, access can be granted to a Subcontractor
-* Enter the **Login ID, First Name, and Last Name**.
-*   For **Web Users,** the **Login ID** must be in an email format and must be a valid email
+    * If Planner (Standard) is selected, access can be granted to a Transporter.
+    * If Contractor is selected, access can be granted to a Contractor.
+    * If Subcontractor is selected, access can be granted to a Subcontractor
+    * Enter the Login ID, First Name, and Last Name.
+    * For Web Users, the Login ID must be in an email format and must be a valid email address
 
-    address.
+    <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-![](.gitbook/assets/image_11.png)
-
-* Set the User Status to **Yes** or **No**, as required
-* When a profile is selected, all roles and access rights are inherited automatically. Roles and rights cannot be enabled or disabled manually at the user level\\. To change any roles or access rights, the modifications must be made in the profile configuration\\.
-
+    * Set the User Status to Yes or No, as required
+    * When a profile is selected, all roles and access rights are inherited automatically. Roles and rights cannot be enabled or disabled manually at the user level\\. To change any roles or access rights, the modifications must be made in the profile configuration\\.
 5. Enable or disable Web Access as required and select the Subcontractor Name, if applicable.
 
 ![](.gitbook/assets/image_12.png)
