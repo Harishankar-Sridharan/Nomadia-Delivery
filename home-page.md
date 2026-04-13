@@ -13,9 +13,6 @@ in real time.
 src=".../gitbook/assets/media/image11.png"
 style="width:6.69375in;height:3.27222in" />
 
-<img
-src="D:\\Nayagam\\OneDrive - NOMADIA\\PM\\Documentation\\ND\\Gitbook conversion\\assets/media/image11.png"
-style="width:6.69375in;height:3.27222in" />
 
 **Key Areas of the Home Screen**
 
