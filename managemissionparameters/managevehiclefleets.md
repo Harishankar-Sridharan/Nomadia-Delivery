@@ -1,4 +1,4 @@
-# 7.2. Manage Vehicle Fleets
+# Manage Vehicle Fleets
 
 ## 7.2. Manage Vehicle Fleets <a href="#toc199075790" id="toc199075790"></a>
 
@@ -8,7 +8,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 
 1. Go to **Configuration**.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on **Configuration menu**
 3. Under **My Data**, click on **Manage the Vehicles**.
@@ -22,7 +22,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 
 6. Click on **Browse File** to upload the file
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Select a **Valid file** from your local system.
 
@@ -86,7 +86,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 
 7. Enter the **Name**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Click on **Add**
 
@@ -102,7 +102,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 6. Click on Add&#x20;
 7. Click on Constraints
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Choose which fields you want to display on the table.
 
@@ -110,11 +110,11 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 
 9. Click on **Save**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. The Fields have been displayed successfully.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.3. Delete a Vehicle <a href="#toc225775661" id="toc225775661"></a>
 
@@ -134,7 +134,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 
 9. Vehicles have been deleted successfully
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.4. Export a Vehicle <a href="#toc225775662" id="toc225775662"></a>
 
@@ -160,7 +160,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 5. Click on **Actions**
 6. Click on Coloring from the dropdown menu
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Choose a **Color**
 8. Click on **Save**
@@ -169,7 +169,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 
 9. The color has been applied successfully.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -182,7 +182,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 5. Click on **Actions**
 6. Click on Customize the list from the dropdown menu
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -196,7 +196,7 @@ The Manage Vehicle Fleets in Nomadia Delivery allows administrators and planners
 
 9. The selected fields will be displayed on the table successfully
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -237,7 +237,7 @@ Zone priority, Assigned deliverer, Postal code prefix, etc.
 
 9. The selected color has been applied successfully
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -262,7 +262,7 @@ Zone priority, Assigned deliverer, Postal code prefix, etc.
 
 9. The selected fields have been displayed on the table successfully
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.10. Customizing Status Labels. <a href="#id-6.3.2.9._customizing_status" id="id-6.3.2.9._customizing_status"></a>
 

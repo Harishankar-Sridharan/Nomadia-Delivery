@@ -1,4 +1,4 @@
-# 7.3. Manage Sub Statuses
+# Manage Sub Statuses
 
 The Manage Sub Statuses feature allows administrators to create, edit, and assign detailed status labels that reflect the real-time progress or condition of a delivery task. These sub statuses provide a more granular tracking mechanism within the broader status categories such as "Pickup", "Waiting", or "Delivered"
 
@@ -18,11 +18,11 @@ The Manage Sub Statuses feature allows administrators to create, edit, and assig
 6. Enter the Sub status code
 7. Select the Status configuration type
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Click on Save
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Sub status has been created successfully
 
@@ -37,7 +37,7 @@ The Manage Sub Statuses feature allows administrators to create, edit, and assig
 5. Click the **Actions** dropdown menu
 6. Click on **Delete**
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,18 +64,18 @@ Apply conditions based on zone attributes such as type of mission (Delivery, Pic
 5. Click the **Actions** dropdown menu
 6. Click on **Coloring**
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Choose a Color
 8. Click on Save
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 9. The selected color has been applied successfully.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -88,7 +88,7 @@ Apply conditions based on zone attributes such as type of mission (Delivery, Pic
 5. Click the **Actions** dropdown menu
 6. Click on **Customize the Limit**
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
