@@ -9,7 +9,7 @@ links to core functionalities. This screen is designed to help users
 navigate efficiently while staying informed about logistics operations
 in real time.
 
-![Screenshot](../screenshots/image11.png)"
+"![Screenshot](../screenshots/image11.png)"
 style="width:6.69375in;height:3.27222in" />
 
 
